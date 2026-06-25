@@ -1,0 +1,3239 @@
+{
+ "repo": "joaoludgerio/expert-broll-bank",
+ "release": "v1",
+ "total": 219,
+ "categorias": [
+  "cerebro",
+  "cristal",
+  "documento",
+  "energia",
+  "estrela",
+  "lupa",
+  "moeda",
+  "pessoas",
+  "rede",
+  "relogio",
+  "robo",
+  "servidor",
+  "video"
+ ],
+ "nota": "B-rolls dark+ambar, 9:16, ~5s, mudos. cat=filtro grosso; usar thumb pra escolha fina. preferir hd=true.",
+ "clips": [
+  {
+   "id": "5-minutos-01",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-01.mp4"
+  },
+  {
+   "id": "5-minutos-02",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-02.mp4"
+  },
+  {
+   "id": "5-minutos-03",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-03.mp4"
+  },
+  {
+   "id": "5-minutos-04",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-04.mp4"
+  },
+  {
+   "id": "5-minutos-05",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-05.mp4"
+  },
+  {
+   "id": "5-minutos-06",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-06.mp4"
+  },
+  {
+   "id": "5-minutos-07",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-07.mp4"
+  },
+  {
+   "id": "5-minutos-08",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-08.mp4"
+  },
+  {
+   "id": "5-minutos-09",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-09.mp4"
+  },
+  {
+   "id": "5-minutos-10",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-10.mp4"
+  },
+  {
+   "id": "5-minutos-11",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-11.mp4"
+  },
+  {
+   "id": "5-minutos-12",
+   "source": "5-minutos",
+   "cat": [
+    "relogio",
+    "energia",
+    "estrela"
+   ],
+   "desc": "tempo/urgencia (relogio, streaks)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/5-minutos-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/5-minutos-12.mp4"
+  },
+  {
+   "id": "ai-slop-01",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-01.mp4"
+  },
+  {
+   "id": "ai-slop-02",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-02.mp4"
+  },
+  {
+   "id": "ai-slop-03",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-03.mp4"
+  },
+  {
+   "id": "ai-slop-04",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-04.mp4"
+  },
+  {
+   "id": "ai-slop-05",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-05.mp4"
+  },
+  {
+   "id": "ai-slop-06",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-06.mp4"
+  },
+  {
+   "id": "ai-slop-07",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-07.mp4"
+  },
+  {
+   "id": "ai-slop-08",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-08.mp4"
+  },
+  {
+   "id": "ai-slop-09",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-09.mp4"
+  },
+  {
+   "id": "ai-slop-10",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-10.mp4"
+  },
+  {
+   "id": "ai-slop-11",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-11.mp4"
+  },
+  {
+   "id": "ai-slop-12",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-12.mp4"
+  },
+  {
+   "id": "ai-slop-13",
+   "source": "ai-slop",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "design generico de IA (telas, cristal, formas)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/ai-slop-13.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/ai-slop-13.mp4"
+  },
+  {
+   "id": "assistir-01",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-01.mp4"
+  },
+  {
+   "id": "assistir-02",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-02.mp4"
+  },
+  {
+   "id": "assistir-03",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-03.mp4"
+  },
+  {
+   "id": "assistir-04",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-04.mp4"
+  },
+  {
+   "id": "assistir-05",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-05.mp4"
+  },
+  {
+   "id": "assistir-06",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-06.mp4"
+  },
+  {
+   "id": "assistir-07",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-07.mp4"
+  },
+  {
+   "id": "assistir-08",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-08.mp4"
+  },
+  {
+   "id": "assistir-09",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-09.mp4"
+  },
+  {
+   "id": "assistir-10",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-10.mp4"
+  },
+  {
+   "id": "assistir-11",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-11.mp4"
+  },
+  {
+   "id": "assistir-12",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-12.mp4"
+  },
+  {
+   "id": "assistir-13",
+   "source": "assistir",
+   "cat": [
+    "video",
+    "lupa",
+    "cerebro",
+    "energia"
+   ],
+   "desc": "video/assistir (play, film strip, olho, lupa)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/assistir-13.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/assistir-13.mp4"
+  },
+  {
+   "id": "claude-smb-01",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-01.mp4"
+  },
+  {
+   "id": "claude-smb-02",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-02.mp4"
+  },
+  {
+   "id": "claude-smb-03",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-03.mp4"
+  },
+  {
+   "id": "claude-smb-04",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-04.mp4"
+  },
+  {
+   "id": "claude-smb-05",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-05.mp4"
+  },
+  {
+   "id": "claude-smb-06",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-06.mp4"
+  },
+  {
+   "id": "claude-smb-07",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-07.mp4"
+  },
+  {
+   "id": "claude-smb-08",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-08.mp4"
+  },
+  {
+   "id": "claude-smb-09",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-09.mp4"
+  },
+  {
+   "id": "claude-smb-10",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-10.mp4"
+  },
+  {
+   "id": "claude-smb-11",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-11.mp4"
+  },
+  {
+   "id": "claude-smb-12",
+   "source": "claude-smb",
+   "cat": [
+    "robo",
+    "servidor",
+    "documento",
+    "rede"
+   ],
+   "desc": "operacao com IA (robos, servidores, dashboards)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/claude-smb-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/claude-smb-12.mp4"
+  },
+  {
+   "id": "contratacao-errada-01",
+   "source": "contratacao-errada",
+   "cat": [
+    "pessoas",
+    "documento",
+    "robo"
+   ],
+   "desc": "contratacao (figuras, documentos)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/contratacao-errada-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/contratacao-errada-01.mp4"
+  },
+  {
+   "id": "contratacao-errada-02",
+   "source": "contratacao-errada",
+   "cat": [
+    "pessoas",
+    "documento",
+    "robo"
+   ],
+   "desc": "contratacao (figuras, documentos)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/contratacao-errada-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/contratacao-errada-02.mp4"
+  },
+  {
+   "id": "contratacao-errada-03",
+   "source": "contratacao-errada",
+   "cat": [
+    "pessoas",
+    "documento",
+    "robo"
+   ],
+   "desc": "contratacao (figuras, documentos)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/contratacao-errada-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/contratacao-errada-03.mp4"
+  },
+  {
+   "id": "contratacao-errada-04",
+   "source": "contratacao-errada",
+   "cat": [
+    "pessoas",
+    "documento",
+    "robo"
+   ],
+   "desc": "contratacao (figuras, documentos)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/contratacao-errada-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/contratacao-errada-04.mp4"
+  },
+  {
+   "id": "contratacao-errada-05",
+   "source": "contratacao-errada",
+   "cat": [
+    "pessoas",
+    "documento",
+    "robo"
+   ],
+   "desc": "contratacao (figuras, documentos)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/contratacao-errada-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/contratacao-errada-05.mp4"
+  },
+  {
+   "id": "contratacao-errada-06",
+   "source": "contratacao-errada",
+   "cat": [
+    "pessoas",
+    "documento",
+    "robo"
+   ],
+   "desc": "contratacao (figuras, documentos)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/contratacao-errada-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/contratacao-errada-06.mp4"
+  },
+  {
+   "id": "contratacao-errada-07",
+   "source": "contratacao-errada",
+   "cat": [
+    "pessoas",
+    "documento",
+    "robo"
+   ],
+   "desc": "contratacao (figuras, documentos)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/contratacao-errada-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/contratacao-errada-07.mp4"
+  },
+  {
+   "id": "crm-01",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-01.mp4"
+  },
+  {
+   "id": "crm-02",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-02.mp4"
+  },
+  {
+   "id": "crm-03",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-03.mp4"
+  },
+  {
+   "id": "crm-04",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-04.mp4"
+  },
+  {
+   "id": "crm-05",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-05.mp4"
+  },
+  {
+   "id": "crm-06",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-06.mp4"
+  },
+  {
+   "id": "crm-07",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-07.mp4"
+  },
+  {
+   "id": "crm-08",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-08.mp4"
+  },
+  {
+   "id": "crm-09",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-09.mp4"
+  },
+  {
+   "id": "crm-10",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-10.mp4"
+  },
+  {
+   "id": "crm-11",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-11.mp4"
+  },
+  {
+   "id": "crm-12",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-12.mp4"
+  },
+  {
+   "id": "crm-13",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-13.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-13.mp4"
+  },
+  {
+   "id": "crm-14",
+   "source": "crm",
+   "cat": [
+    "servidor",
+    "moeda",
+    "documento",
+    "estrela",
+    "cerebro",
+    "rede"
+   ],
+   "desc": "CRM/custo (servidor, moedas, dashboards, estrela)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/crm-14.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/crm-14.mp4"
+  },
+  {
+   "id": "desvio-fable-01",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-01.mp4"
+  },
+  {
+   "id": "desvio-fable-02",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-02.mp4"
+  },
+  {
+   "id": "desvio-fable-03",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-03.mp4"
+  },
+  {
+   "id": "desvio-fable-04",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-04.mp4"
+  },
+  {
+   "id": "desvio-fable-05",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-05.mp4"
+  },
+  {
+   "id": "desvio-fable-06",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-06.mp4"
+  },
+  {
+   "id": "desvio-fable-07",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-07.mp4"
+  },
+  {
+   "id": "desvio-fable-08",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-08.mp4"
+  },
+  {
+   "id": "desvio-fable-09",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-09.mp4"
+  },
+  {
+   "id": "desvio-fable-10",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-10.mp4"
+  },
+  {
+   "id": "desvio-fable-11",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-11.mp4"
+  },
+  {
+   "id": "desvio-fable-12",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-12.mp4"
+  },
+  {
+   "id": "desvio-fable-13",
+   "source": "desvio-fable",
+   "cat": [
+    "energia",
+    "rede",
+    "cristal"
+   ],
+   "desc": "energia/circuito/esfera abstrata",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/desvio-fable-13.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/desvio-fable-13.mp4"
+  },
+  {
+   "id": "fable-maestro-01",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-01.mp4"
+  },
+  {
+   "id": "fable-maestro-02",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-02.mp4"
+  },
+  {
+   "id": "fable-maestro-03",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-03.mp4"
+  },
+  {
+   "id": "fable-maestro-04",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-04.mp4"
+  },
+  {
+   "id": "fable-maestro-05",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-05.mp4"
+  },
+  {
+   "id": "fable-maestro-06",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-06.mp4"
+  },
+  {
+   "id": "fable-maestro-07",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-07.mp4"
+  },
+  {
+   "id": "fable-maestro-08",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-08.mp4"
+  },
+  {
+   "id": "fable-maestro-09",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-09.mp4"
+  },
+  {
+   "id": "fable-maestro-10",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-10.mp4"
+  },
+  {
+   "id": "fable-maestro-11",
+   "source": "fable-maestro",
+   "cat": [
+    "energia",
+    "rede",
+    "robo"
+   ],
+   "desc": "orquestracao (streaks, colunas, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fable-maestro-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fable-maestro-11.mp4"
+  },
+  {
+   "id": "fantasma-01",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-01.mp4"
+  },
+  {
+   "id": "fantasma-02",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-02.mp4"
+  },
+  {
+   "id": "fantasma-03",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-03.mp4"
+  },
+  {
+   "id": "fantasma-04",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-04.mp4"
+  },
+  {
+   "id": "fantasma-05",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-05.mp4"
+  },
+  {
+   "id": "fantasma-06",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-06.mp4"
+  },
+  {
+   "id": "fantasma-07",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-07.mp4"
+  },
+  {
+   "id": "fantasma-08",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-08.mp4"
+  },
+  {
+   "id": "fantasma-09",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-09.mp4"
+  },
+  {
+   "id": "fantasma-10",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-10.mp4"
+  },
+  {
+   "id": "fantasma-11",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-11.mp4"
+  },
+  {
+   "id": "fantasma-12",
+   "source": "fantasma",
+   "cat": [
+    "documento",
+    "cristal",
+    "energia",
+    "robo"
+   ],
+   "desc": "prompt injection (documento, esfera, energia)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/fantasma-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/fantasma-12.mp4"
+  },
+  {
+   "id": "goal-01",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-01.mp4"
+  },
+  {
+   "id": "goal-02",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-02.mp4"
+  },
+  {
+   "id": "goal-03",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-03.mp4"
+  },
+  {
+   "id": "goal-04",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-04.mp4"
+  },
+  {
+   "id": "goal-05",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-05.mp4"
+  },
+  {
+   "id": "goal-06",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-06.mp4"
+  },
+  {
+   "id": "goal-07",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-07.mp4"
+  },
+  {
+   "id": "goal-08",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-08.mp4"
+  },
+  {
+   "id": "goal-09",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-09.mp4"
+  },
+  {
+   "id": "goal-10",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-10.mp4"
+  },
+  {
+   "id": "goal-11",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-11.mp4"
+  },
+  {
+   "id": "goal-12",
+   "source": "goal",
+   "cat": [
+    "robo",
+    "energia",
+    "estrela"
+   ],
+   "desc": "meta/conclusao (robo, energia, alvo)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/goal-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/goal-12.mp4"
+  },
+  {
+   "id": "persona-01",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-01.mp4"
+  },
+  {
+   "id": "persona-02",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-02.mp4"
+  },
+  {
+   "id": "persona-03",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-03.mp4"
+  },
+  {
+   "id": "persona-04",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-04.mp4"
+  },
+  {
+   "id": "persona-05",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-05.mp4"
+  },
+  {
+   "id": "persona-06",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-06.mp4"
+  },
+  {
+   "id": "persona-07",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-07.mp4"
+  },
+  {
+   "id": "persona-08",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-08.mp4"
+  },
+  {
+   "id": "persona-09",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-09.mp4"
+  },
+  {
+   "id": "persona-10",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-10.mp4"
+  },
+  {
+   "id": "persona-11",
+   "source": "persona",
+   "cat": [
+    "robo",
+    "pessoas",
+    "energia",
+    "cristal"
+   ],
+   "desc": "personas (robo, figuras, mascaras)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/persona-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/persona-11.mp4"
+  },
+  {
+   "id": "privado-01",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-01.mp4"
+  },
+  {
+   "id": "privado-02",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-02.mp4"
+  },
+  {
+   "id": "privado-03",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-03.mp4"
+  },
+  {
+   "id": "privado-04",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-04.mp4"
+  },
+  {
+   "id": "privado-05",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-05.mp4"
+  },
+  {
+   "id": "privado-06",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-06.mp4"
+  },
+  {
+   "id": "privado-07",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-07.mp4"
+  },
+  {
+   "id": "privado-08",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-08.mp4"
+  },
+  {
+   "id": "privado-09",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-09.mp4"
+  },
+  {
+   "id": "privado-10",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-10.mp4"
+  },
+  {
+   "id": "privado-11",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-11.mp4"
+  },
+  {
+   "id": "privado-12",
+   "source": "privado",
+   "cat": [
+    "lupa",
+    "documento",
+    "rede",
+    "cristal"
+   ],
+   "desc": "privacidade/vazamento (cadeado, lupa, chat)",
+   "res": "704x1248",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/privado-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/privado-12.mp4"
+  },
+  {
+   "id": "quanto-custa-a-hora-01",
+   "source": "quanto-custa-a-hora",
+   "cat": [
+    "moeda",
+    "relogio",
+    "documento"
+   ],
+   "desc": "custo do tempo (moedas, relogio, escritorio)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/quanto-custa-a-hora-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/quanto-custa-a-hora-01.mp4"
+  },
+  {
+   "id": "quanto-custa-a-hora-02",
+   "source": "quanto-custa-a-hora",
+   "cat": [
+    "moeda",
+    "relogio",
+    "documento"
+   ],
+   "desc": "custo do tempo (moedas, relogio, escritorio)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/quanto-custa-a-hora-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/quanto-custa-a-hora-02.mp4"
+  },
+  {
+   "id": "quanto-custa-a-hora-03",
+   "source": "quanto-custa-a-hora",
+   "cat": [
+    "moeda",
+    "relogio",
+    "documento"
+   ],
+   "desc": "custo do tempo (moedas, relogio, escritorio)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/quanto-custa-a-hora-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/quanto-custa-a-hora-03.mp4"
+  },
+  {
+   "id": "quanto-custa-a-hora-04",
+   "source": "quanto-custa-a-hora",
+   "cat": [
+    "moeda",
+    "relogio",
+    "documento"
+   ],
+   "desc": "custo do tempo (moedas, relogio, escritorio)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/quanto-custa-a-hora-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/quanto-custa-a-hora-04.mp4"
+  },
+  {
+   "id": "quanto-custa-a-hora-05",
+   "source": "quanto-custa-a-hora",
+   "cat": [
+    "moeda",
+    "relogio",
+    "documento"
+   ],
+   "desc": "custo do tempo (moedas, relogio, escritorio)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/quanto-custa-a-hora-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/quanto-custa-a-hora-05.mp4"
+  },
+  {
+   "id": "quanto-custa-a-hora-06",
+   "source": "quanto-custa-a-hora",
+   "cat": [
+    "moeda",
+    "relogio",
+    "documento"
+   ],
+   "desc": "custo do tempo (moedas, relogio, escritorio)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/quanto-custa-a-hora-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/quanto-custa-a-hora-06.mp4"
+  },
+  {
+   "id": "quanto-custa-a-hora-07",
+   "source": "quanto-custa-a-hora",
+   "cat": [
+    "moeda",
+    "relogio",
+    "documento"
+   ],
+   "desc": "custo do tempo (moedas, relogio, escritorio)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/quanto-custa-a-hora-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/quanto-custa-a-hora-07.mp4"
+  },
+  {
+   "id": "radar-01",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-01.mp4"
+  },
+  {
+   "id": "radar-02",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-02.mp4"
+  },
+  {
+   "id": "radar-03",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-03.mp4"
+  },
+  {
+   "id": "radar-04",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-04.mp4"
+  },
+  {
+   "id": "radar-05",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-05.mp4"
+  },
+  {
+   "id": "radar-06",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-06.mp4"
+  },
+  {
+   "id": "radar-07",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-07.mp4"
+  },
+  {
+   "id": "radar-08",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-08.mp4"
+  },
+  {
+   "id": "radar-09",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-09.mp4"
+  },
+  {
+   "id": "radar-10",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-10.mp4"
+  },
+  {
+   "id": "radar-11",
+   "source": "radar",
+   "cat": [
+    "lupa",
+    "energia",
+    "rede"
+   ],
+   "desc": "radar/monitor (scan, lupa, rede)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/radar-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/radar-11.mp4"
+  },
+  {
+   "id": "remotion-01",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-01.mp4"
+  },
+  {
+   "id": "remotion-02",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-02.mp4"
+  },
+  {
+   "id": "remotion-03",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-03.mp4"
+  },
+  {
+   "id": "remotion-04",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-04.mp4"
+  },
+  {
+   "id": "remotion-05",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-05.mp4"
+  },
+  {
+   "id": "remotion-06",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-06.mp4"
+  },
+  {
+   "id": "remotion-07",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-07.mp4"
+  },
+  {
+   "id": "remotion-08",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-08.mp4"
+  },
+  {
+   "id": "remotion-09",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-09.mp4"
+  },
+  {
+   "id": "remotion-10",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-10.mp4"
+  },
+  {
+   "id": "remotion-11",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-11.mp4"
+  },
+  {
+   "id": "remotion-12",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-12.mp4"
+  },
+  {
+   "id": "remotion-13",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-13.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-13.mp4"
+  },
+  {
+   "id": "remotion-14",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-14.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-14.mp4"
+  },
+  {
+   "id": "remotion-15",
+   "source": "remotion",
+   "cat": [
+    "video",
+    "energia",
+    "documento",
+    "robo"
+   ],
+   "desc": "codigo vira video (streams de codigo, timeline, play, engine)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/remotion-15.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/remotion-15.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-01",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-01.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-02",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-02.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-03",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-03.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-04",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-04.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-05",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-05.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-06",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-06.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-07",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-07.mp4"
+  },
+  {
+   "id": "reuniao-que-se-repete-08",
+   "source": "reuniao-que-se-repete",
+   "cat": [
+    "pessoas",
+    "relogio",
+    "rede",
+    "robo"
+   ],
+   "desc": "reuniao recorrente (pessoas, loop, calendario)",
+   "res": "716x1284",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/reuniao-que-se-repete-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/reuniao-que-se-repete-08.mp4"
+  },
+  {
+   "id": "revisor-01",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-01.mp4"
+  },
+  {
+   "id": "revisor-02",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-02.mp4"
+  },
+  {
+   "id": "revisor-03",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-03.mp4"
+  },
+  {
+   "id": "revisor-04",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-04.mp4"
+  },
+  {
+   "id": "revisor-05",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-05.mp4"
+  },
+  {
+   "id": "revisor-06",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-06.mp4"
+  },
+  {
+   "id": "revisor-07",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-07.mp4"
+  },
+  {
+   "id": "revisor-08",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-08.mp4"
+  },
+  {
+   "id": "revisor-09",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-09.mp4"
+  },
+  {
+   "id": "revisor-10",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-10.mp4"
+  },
+  {
+   "id": "revisor-11",
+   "source": "revisor",
+   "cat": [
+    "documento",
+    "lupa",
+    "cerebro"
+   ],
+   "desc": "revisao (documentos, lupa, ampulheta)",
+   "res": "720x1280",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/revisor-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/revisor-11.mp4"
+  },
+  {
+   "id": "segundo-cerebro-01",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-01.mp4"
+  },
+  {
+   "id": "segundo-cerebro-02",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-02.mp4"
+  },
+  {
+   "id": "segundo-cerebro-03",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-03.mp4"
+  },
+  {
+   "id": "segundo-cerebro-04",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-04.mp4"
+  },
+  {
+   "id": "segundo-cerebro-05",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-05.mp4"
+  },
+  {
+   "id": "segundo-cerebro-06",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-06.mp4"
+  },
+  {
+   "id": "segundo-cerebro-07",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-07.mp4"
+  },
+  {
+   "id": "segundo-cerebro-08",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-08.mp4"
+  },
+  {
+   "id": "segundo-cerebro-09",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-09.mp4"
+  },
+  {
+   "id": "segundo-cerebro-10",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-10.mp4"
+  },
+  {
+   "id": "segundo-cerebro-11",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-11.mp4"
+  },
+  {
+   "id": "segundo-cerebro-12",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-12.mp4"
+  },
+  {
+   "id": "segundo-cerebro-13",
+   "source": "segundo-cerebro",
+   "cat": [
+    "cerebro",
+    "rede",
+    "documento"
+   ],
+   "desc": "conhecimento/memoria (cerebro, grafo, rede)",
+   "res": "1080x1920",
+   "hd": true,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/segundo-cerebro-13.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/segundo-cerebro-13.mp4"
+  },
+  {
+   "id": "tag-01",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-01.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-01.mp4"
+  },
+  {
+   "id": "tag-02",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-02.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-02.mp4"
+  },
+  {
+   "id": "tag-03",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-03.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-03.mp4"
+  },
+  {
+   "id": "tag-04",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-04.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-04.mp4"
+  },
+  {
+   "id": "tag-05",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-05.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-05.mp4"
+  },
+  {
+   "id": "tag-06",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-06.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-06.mp4"
+  },
+  {
+   "id": "tag-07",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-07.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-07.mp4"
+  },
+  {
+   "id": "tag-08",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-08.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-08.mp4"
+  },
+  {
+   "id": "tag-09",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-09.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-09.mp4"
+  },
+  {
+   "id": "tag-10",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-10.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-10.mp4"
+  },
+  {
+   "id": "tag-11",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-11.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-11.mp4"
+  },
+  {
+   "id": "tag-12",
+   "source": "tag",
+   "cat": [
+    "rede",
+    "robo",
+    "pessoas",
+    "estrela"
+   ],
+   "desc": "IA no Slack (chat, robo colega, rede, pessoas)",
+   "res": "768x1152",
+   "hd": false,
+   "thumb": "https://raw.githubusercontent.com/joaoludgerio/expert-broll-bank/main/thumbs/tag-12.jpg",
+   "url": "https://github.com/joaoludgerio/expert-broll-bank/releases/download/v1/tag-12.mp4"
+  }
+ ]
+}
