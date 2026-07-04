@@ -37,3 +37,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-04 | site sem programador com Lovable | SITE | site-sem-programador-lovable | (produção direta) |
 | 2026-07-04 | IA local na empresa, dados sem nuvem (DGX Spark + teste grátis) | LOCAL | ia-local-do-teste-gratis-ao-dgx-spark | (vídeo de referência externo) |
 | 2026-07-04 | anúncio live imposto invisível (criativo B, o número) | LINK (ad) | - | interno |
+| 2026-07-04 | anúncio live imposto invisível (criativo A, segunda 9h) | LINK (ad) | - | interno |
