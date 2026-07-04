@@ -34,4 +34,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-06-11 | OpenSquad, primeiro time de IA | (antigo) | opensquad | (pré-registro) |
 | 2026-06-11 | Fable 5, o que é e como usar | (antigo) | fable-5 | (pré-registro) |
 | 2026-06-30 | qual modelo Anthropic usar em cada tarefa | (antigo) | qual-modelo-da-anthropic-usar-em-cada-tarefa | (pré-registro) |
-| 2026-07-04 | skills prontas do repositório oficial da Anthropic | SKILL | skills-prontas-repositorio-anthropic | (produção direta) |
+| 2026-07-04 | Nano Banana, prompts de foto de produto no Gemini | PROMPT | prompts-nano-banana-fotos-produto | (produção direta) |
