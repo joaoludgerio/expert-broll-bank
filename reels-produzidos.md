@@ -43,3 +43,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-07 | agente de WhatsApp, atendimento refém do dono (Opinion Box 99/82) | AGENTE | agente-de-whatsapp-passo-a-passo | interno (aula 16/06, card ClickUp 86aj3p8dv) |
 | 2026-07-07 | MCP, voce virou o estagiario da IA (guia 30 conexoes) | MCP | 30-conexoes-mcp-guia | interno (card ClickUp 86agz482g, credito @brunobracaioli) |
 | 2026-07-07 | GStack Garry Tan, setup de time 810x (YC) | SETUP | setup-de-time-gstack | interno (card ClickUp 86ah0nnv5) |
+| 2026-07-07 | reputacao de numero, blindar chip WhatsApp (3 dinamicas) | CHIP | blindar-numero-whatsapp | interno (cards ClickUp 864exq1td/86a2hjvbu) |
