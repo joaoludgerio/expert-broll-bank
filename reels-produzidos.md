@@ -38,4 +38,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-04 | IA local na empresa, dados sem nuvem (DGX Spark + teste grátis) | LOCAL | ia-local-do-teste-gratis-ao-dgx-spark | (vídeo de referência externo) |
 | 2026-07-04 | anúncio live imposto invisível (criativo B, o número) | LINK (ad) | - | interno |
 | 2026-07-04 | anúncio live imposto invisível (criativo A, segunda 9h) | LINK (ad) | - | interno |
-| 2026-07-07 | anúncio webinário 13-jul (SEGUNDA 9H, hook funcionário mais caro) | LINK (ad) | - | variação de reel-ad-imposto-a |
+| 2026-07-07 | anúncio webinário 13-jul (SEGUNDA 9H, hook loop da segunda que vem) | LINK (ad) | - | variação de reel-ad-imposto-a |
