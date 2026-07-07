@@ -39,3 +39,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-04 | anúncio live imposto invisível (criativo B, o número) | LINK (ad) | - | interno |
 | 2026-07-04 | anúncio live imposto invisível (criativo A, segunda 9h) | LINK (ad) | - | interno |
 | 2026-07-07 | anúncio webinário 13-jul (SEGUNDA 9H, hook loop da segunda que vem) | LINK (ad) | - | variação de reel-ad-imposto-a |
+| 2026-07-07 | follow-up inteligente, funil furado (Invesp 80/44) | FOLLOW | follow-up-inteligente-passo-a-passo | interno (aula 30/06, card ClickUp 86ajadvj0) |
