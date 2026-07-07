@@ -44,4 +44,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-07 | MCP, voce virou o estagiario da IA (guia 30 conexoes) | MCP | 30-conexoes-mcp-guia | interno (card ClickUp 86agz482g, credito @brunobracaioli) |
 | 2026-07-07 | GStack Garry Tan, setup de time 810x (YC) | SETUP | setup-de-time-gstack | interno (card ClickUp 86ah0nnv5) |
 | 2026-07-07 | aula lendaria do MIT, Patrick Winston + prompts (18M views) | MIT | prompts-mit-apresentacao | interno (cards ClickUp 86agv7y42/86ah0nqw9) |
-| 2026-07-07 | subuso, 8 missoes pro modelo forte (Fable 5) | MISSAO | 8-missoes-modelo-forte | interno (apresentacao fable5.ericluciano.com.br) |
+| 2026-07-07 | formula 20-70-10, planejar forte executar barato (Fable 5) | FORMULA | formula-20-70-10 | interno (apresentacao fable5) |
