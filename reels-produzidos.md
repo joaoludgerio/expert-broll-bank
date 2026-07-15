@@ -46,4 +46,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-07 | aula lendaria do MIT, Patrick Winston + prompts (18M views) | MIT | prompts-mit-apresentacao | interno (cards ClickUp 86agv7y42/86ah0nqw9) |
 | 2026-07-07 | calibragem de esforco, effort low-max (Fable 5) | ESFORCO | calibragem-de-esforco | interno (apresentacao fable5) |
 | 2026-07-07 | prova de progresso, deriva em tarefa longa (Fable 5) | PROVA | prova-de-progresso-roteiro | interno (apresentacao fable5, dica 7) |
-| 2026-07-15 | Claude dentro do Excel, barra lateral conserta formula | PLANILHA | claude-no-excel-passo-a-passo | interno (leva 5 reels 15/07) |
+| 2026-07-15 | modo Pesquisa do Claude, resposta de primeira pagina | PESQUISA | modo-pesquisa-claude-roteiro-de-prompt | interno (leva 5 reels 15/07) |
