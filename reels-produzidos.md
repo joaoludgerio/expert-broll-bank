@@ -48,3 +48,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-07 | prova de progresso, deriva em tarefa longa (Fable 5) | PROVA | prova-de-progresso-roteiro | interno (apresentacao fable5, dica 7) |
 | 2026-07-15 | modo Pesquisa do Claude, resposta de primeira pagina | PESQUISA | modo-pesquisa-claude-roteiro-de-prompt | interno (leva 5 reels 15/07) |
 | 2026-07-16 | chave de API grátis pra IA (lista de provedores gratuitos/teste) | CHAVE | chave-de-api-gratis | @duncanrogoff/Dah6ykAuhq1 |
+| 2026-07-16 | equipe de plugins pra montar software sem programador no Claude Code | EQUIPE | equipe-claude-code | @duncanrogoff/DamZNbIIS6I |
