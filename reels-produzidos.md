@@ -50,3 +50,4 @@ Fontes: este arquivo (local) + Biblioteca via MCP (nuvem). Atualizar depois de C
 | 2026-07-16 | chave de API grátis pra IA (lista de provedores gratuitos/teste) | CHAVE | chave-de-api-gratis | @duncanrogoff/Dah6ykAuhq1 |
 | 2026-07-16 | equipe de plugins pra montar software sem programador no Claude Code | EQUIPE | equipe-claude-code | @duncanrogoff/DamZNbIIS6I |
 | 2026-07-16 | Graphify, mapa de conhecimento que corta token gasto no Claude Code | ECONOMIA | mapa-de-economia-claude-code | @duncanrogoff/Dae5fOUOphe |
+| 2026-07-17 | mudanca de cobranca do WhatsApp Business (Meta Business Agent + mensagem de servico) | CUSTO | controle-de-custo-whatsapp-ia | @pedrohtmallet/DaS0I4ixxu2 |
